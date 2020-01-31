@@ -34,7 +34,7 @@ read nomor
 if [ $nomor = 1 ] || [ $nomor = 01 ]
 then
 sleep1
-xdg-open https://youtube.com/c/ScriptKiddies
+xdg-open https://youtu.be/g4Ifz1tYcW4
 
 clear
 apt upgrade && apt update
@@ -48,7 +48,7 @@ fi
 if [ $nomor = 2 ] || [ $nomor = 02 ]
 then
 sleep1
-xdg-open https://youtube.com/c/ScriptKiddies
+xdg-open https://youtu.be/g4Ifz1tYcW4
 
 clear
 figlet SpamWA | lolcat
@@ -69,7 +69,7 @@ fi
 if [ $nomor = 3 ] || [ $nomor = 03 ]
 then
 slepp 1
-xdg-open https://youtube.com/c/ScriptKiddies
+xdg-https://youtu.be/g4Ifz1tYcW4
 
 clear
 figlet SpamCall | lolcat
@@ -88,7 +88,7 @@ fi
 if [ $nomor = 4 ] || [$nomor = 04 ]
 then
 slepp 1
-xdg-open https://youtube.com/c/ScriptKiddies
+xdg-open https://youtu.be/g4Ifz1tYcW4
 
 clear
 figlet SpamEmail | lolcat
